@@ -50,14 +50,7 @@ I am always eager to tackle new challenges, collaborate on innovative projects, 
 ## 🧩 My Coding Stats
 
 <p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/harshita7sz6" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Harshita2207-4CAF50?logo=geeksforgeeks&style=for-the-badge" alt="GeeksforGeeks Profile" />
-  </a>
-</p>
-
-
-<p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Harshita2207&theme=dark" alt="LeetCode Stats" />
+  [![LeetCode Stats](https://leetcode-solve-streak-stats.herokuapp.com/api?username=Harshita2207)](https://leetcode.com/Harshita2207/)
 </p>
 
 
