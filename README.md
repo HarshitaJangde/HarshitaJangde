@@ -49,7 +49,7 @@ I am always eager to tackle new challenges, collaborate on innovative projects, 
 
 ## 🧩 GFG Stats
 
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-harshita7sz6-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/YourUserName)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-harshita7sz6-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/harshita7sz6)
 
 ---
 
