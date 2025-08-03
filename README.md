@@ -42,22 +42,26 @@ I am always eager to tackle new challenges, collaborate on innovative projects, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaJangde&show_icons=true&hide_title=true&rank_icon=false&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaJangdeE&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=HarshitaJangde&theme=radical" />
 </p>
 
 ---
-<!--
 ## 🧩 My Coding Stats
 
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-harshita7sz6-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/harshita7sz6)
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/harshita7sz6" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Harshita2207-4CAF50?logo=geeksforgeeks&style=for-the-badge" alt="GeeksforGeeks Profile" />
+  </a>
+</p>
+
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Harshita2207&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats.vercel.app/api?username=Harshita2207&theme=dark" alt="LeetCode Stats" />
 </p>
 
 
 ---
--->
 
 ## 📫 Let's Connect!
 
