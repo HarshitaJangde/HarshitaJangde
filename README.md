@@ -44,8 +44,24 @@ I am always eager to tackle new challenges, collaborate on innovative projects, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshita-jangde/)
 [![Email](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitajangde@gmail.com)
 
-<!-- Visitor Badge (optional) -->
-![](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue)
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshitaJangde&color=blue&style=flat-square&label=Profile%20Views" alt="GitHub Profile Views"/>
+</p>
+
+<p align="center">
+  <span style="font-size:2em; font-weight:bold; color:#2b9348;">
+    🏆 <u>126,588</u> views!
+  </span>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="120"/>
+</p>
+
+> _Thank you to everyone who’s checked out my profile! Your interest keeps me motivated to keep building and learning._ 🚀✨
+
 
 <!--
 **HarshitaJangde/HarshitaJangde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
