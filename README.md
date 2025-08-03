@@ -30,15 +30,6 @@ I am a passionate and driven **Software Developer** and **Data Analyst** who thr
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaJangde&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=HarshitaJangde&theme=radical" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 - Finalist: Walmart SparkPlug 2025, CodeHer 2025
