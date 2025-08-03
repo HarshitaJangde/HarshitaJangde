@@ -46,7 +46,7 @@ I am always eager to tackle new challenges, collaborate on innovative projects, 
 </p>
 
 ---
-
+<!--
 ## 🧩 My Coding Stats
 
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-harshita7sz6-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/harshita7sz6)
@@ -57,6 +57,7 @@ I am always eager to tackle new challenges, collaborate on innovative projects, 
 
 
 ---
+-->
 
 ## 📫 Let's Connect!
 
