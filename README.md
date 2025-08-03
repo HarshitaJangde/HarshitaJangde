@@ -42,16 +42,9 @@ I am always eager to tackle new challenges, collaborate on innovative projects, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaJangdeE&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaJangde&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=HarshitaJangde&theme=radical" />
 </p>
-
----
-## 🧩 My Coding Stats
-
-  [![LeetCode Stats](https://leetcode-solve-streak-stats.herokuapp.com/api?username=Harshita2207)](https://leetcode.com/Harshita2207/)
-
-
 
 ---
 
