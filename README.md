@@ -17,7 +17,6 @@ I am a passionate and driven **Software Developer** and **Data Analyst** who thr
 
 **Frameworks & Libraries:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
