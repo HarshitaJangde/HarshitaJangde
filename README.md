@@ -1,4 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:91EAE4&height=160&section=header&text=Hi%20I'm%20Harshita Jangde%20👋&fontAlign=50&fontSize=30&fontColor=fff)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:91EAE4&height=160&section=header&text=Hi%20I'm%20HarshitaJangde%20👋&fontAlign=50&fontSize=30&fontColor=fff)
 
 ## 👩‍💻 About Me
 
