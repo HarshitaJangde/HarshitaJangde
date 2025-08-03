@@ -47,17 +47,14 @@ I am always eager to tackle new challenges, collaborate on innovative projects, 
 
 ---
 
-## 🧩 GFG Stats
+## 🧩 My Coding Stats
 
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-harshita7sz6-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/harshita7sz6)
 
----
-
-## 🧩 LeetCode Stats
-
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=Harshita2207&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Harshita2207&theme=dark" alt="LeetCode Stats" />
 </p>
+
 
 ---
 
