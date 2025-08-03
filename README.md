@@ -44,8 +44,7 @@ I am always eager to tackle new challenges, collaborate on innovative projects, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshita-jangde/)
 [![Email](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitajangde@gmail.com)
 
-## 👀 Profile Views
-
+<!-- Visitor Badge (optional) -->
 ![](https://komarev.com/ghpvc/?username=HarshitaJangde&color=blue)
 
 > _Thank you to everyone who’s checked out my profile! Your interest keeps me motivated to keep building and learning._ 🚀✨
