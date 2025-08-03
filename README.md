@@ -39,6 +39,28 @@ I am always eager to tackle new challenges, collaborate on innovative projects, 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaJangde&show_icons=true&hide_title=true&rank_icon=false&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🧩 GFG Stats
+
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-harshita7sz6-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/YourUserName)
+
+---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=Harshita2207&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshita-jangde/)
