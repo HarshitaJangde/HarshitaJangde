@@ -2,7 +2,9 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate and driven **Software Developer** and **Data Analyst** who thrives on designing efficient solutions and transforming data into actionable insights. With a strong foundation in both front-end and back-end technologies, as well as machine learning, I excel at building robust applications and analyzing complex datasets. I am always eager to tackle new challenges, collaborate on innovative projects, and contribute to real-world impact through technology.
+I am a passionate and driven **Software Developer** and **Data Analyst** who thrives on designing efficient solutions and transforming data into actionable insights. Building on my experience with front-end and back-end technologies and an interest in machine learning, I am continually learning to develop reliable applications and improve at analyzing complex datasets. 
+
+I am always eager to tackle new challenges, collaborate on innovative projects, and contribute to real-world impact through technology.
 
 ---
 
