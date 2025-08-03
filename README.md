@@ -49,9 +49,8 @@ I am always eager to tackle new challenges, collaborate on innovative projects, 
 ---
 ## 🧩 My Coding Stats
 
-<p align="center">
   [![LeetCode Stats](https://leetcode-solve-streak-stats.herokuapp.com/api?username=Harshita2207)](https://leetcode.com/Harshita2207/)
-</p>
+
 
 
 ---
